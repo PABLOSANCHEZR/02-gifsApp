@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { GifsService } from '../services/gifs.service';
+import { Gif } from '../interface/gifs.interfaces';
 
 @Component({
   selector: 'app-resultados',
